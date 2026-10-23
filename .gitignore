@@ -1,0 +1,10 @@
+# Object files
+/build/
+/build_bonus/
+/libft/build/
+
+# libft.a
+/libft/lib/
+
+# Visualizer build, with its downloaded dependencies
+/push_swap_visualizer/build/

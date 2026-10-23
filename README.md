@@ -1,5 +1,4 @@
 <div align="center">
-
 # push_swap · 42 Paris
 
 **Sorting integers with two stacks and 11 instructions, in as few operations as possible: a cost-based greedy algorithm that stays under the top-grade limits, and a checker that replays and verifies any solution.**

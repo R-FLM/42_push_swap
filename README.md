@@ -1,5 +1,3 @@
-_This project has been created as part of the 42 curriculum by flomulle._
-
 <div align="center">
 
 # push_swap · 42 Paris
